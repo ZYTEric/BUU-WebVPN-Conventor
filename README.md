@@ -105,6 +105,4 @@ MIT License - 详见 [LICENSE](LICENSE)
 ## 参考与致谢
 
 - 密钥捕获思路参考 [xiaobei97/wengine-vpn-decryptor](https://github.com/xiaobei97/wengine-vpn-decryptor)
-- BUU 密钥解析与 URL 转换实现为原创
-
 ```
